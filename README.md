@@ -15,7 +15,7 @@ Desenvolvedor: <br>
 <br>
 <br>
 Programação: <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="50" /> <br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="60" /> <br>
 <p <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="mailto:someone@example.com" target="_blank"> </p> <br>
 <br>
 <br>
