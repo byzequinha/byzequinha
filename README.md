@@ -13,6 +13,7 @@ Desenvolvedor: <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="50" /> <br>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="50" /> <br>
 <br>
+<img src="https://github.com/byzequinha/byzequinha/blob/main/Linkedin%20_qrcode%20Zequinha.png?style=for-the-badge&logo=linkedin&logoColor=white" width="200"/>
 <br>
 Programação: <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <br>
@@ -20,4 +21,3 @@ Programação: <br>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=byzequinha" /> </a>
-<img src="https://github.com/byzequinha/byzequinha/blob/main/Linkedin%20_qrcode%20Zequinha.png?style=for-the-badge&logo=linkedin&logoColor=white" width="250"/>
