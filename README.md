@@ -20,3 +20,4 @@ Programação: <br>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=byzequinha" /> </a>
+<img src="[https://github.com/byzequinha/byzequinha/blob/main/Linkedin%20_qrcode%20Zequinha.png]?style=for-the-badge&logo=linkedin&logoColor=white" width="50"/>:
