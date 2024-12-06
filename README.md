@@ -40,7 +40,7 @@ Sou um desenvolvedor apaixonado por tecnologia, **open source**, e por transform
 ---
 
 ## 📫 Vamos conversar?  
-📧 **E-mail**: [meuemail@gmail.com](mailto:meuemail@gmail.com)  
+📧 **E-mail**: [byzequinh@gmail.com](mailto:byzequinh@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/byzequinha)  
 
 ---
