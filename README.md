@@ -33,7 +33,7 @@ Sou um desenvolvedor apaixonado por tecnologia, **open source**, e por transform
 ---
 
 ## 🌱 Projetos Recentes  
-- **[Postágio](#)**: Gerador de etiquetas em PDF para postagens.  
+- **[Postágio](#)**: Gerador de etiquetas em PDF para postagens. (Em andamento)
 - **[Clima Para Hoje](https://climaparahoje.netlify.app/)**: App de previsão do tempo com geolocalização.  
 - **Hackathon DevClub**: Sistema de agendamento para PetShop.  
 
