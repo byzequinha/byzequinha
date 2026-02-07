@@ -210,7 +210,6 @@ Inclusive no momento estou contribuindo na [Novitch Hub](https://github.com/Novi
 
 > "O único modo de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
 
----
 
 <img src="https://komarev.com/ghpvc/?username=byzequinha&color=blue&style=for-the-badge" alt="Profile views" />
 
