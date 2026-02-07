@@ -1,5 +1,4 @@
-```markdown
-<div align="center">
+
 # 👋 Olá, sou José Francisco (Zequinha)
 ### Desenvolvedor Full-Stack | Open Source Enthusiast | Em Transição de Carreira
 <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Colabora%C3%A7%C3%A3o-00D9FF?style=for-the-badge&logo=StatusPal&logoColor=white" alt="Status" />
