@@ -1,6 +1,3 @@
-Aqui está todo o conteúdo em um único arquivo Markdown formatado corretamente:
-
-```markdown
 <div align="center">
 
 # 👋 Olá, sou José Francisco (Zequinha)
