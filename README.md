@@ -134,7 +134,7 @@ Gerador de etiquetas em PDF para postagens dos Correios
 <td width="50%">
 
 ### Novitch Hub
-**Status:** Trabalho temporário / Contribuição  
+**Status:** Trabalho Voluntário / Contribuição  
 Plataforma em desenvolvimento (arquitetura escalável)  
 **Foco:** Full-stack moderno, escalabilidade  
 **Link:** [github.com/NovitchHub](https://github.com/NovitchHub)
